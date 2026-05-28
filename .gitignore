@@ -1,0 +1,42 @@
+# Dataset files
+
+comments.csv
+posts.csv
+
+# Generated plots
+
+plots/
+
+# Experimental / temporary files
+
+app2.py
+tempCodeRunnerFile.py
+try_model_2_only.py
+try_model_only.py
+
+# Reports
+
+EDA_analysis_report.txt
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environments
+
+venv/
+.venv/
+
+# Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Model files (optional)
+
+# models/*.pkl
